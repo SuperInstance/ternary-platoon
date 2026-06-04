@@ -1,0 +1,6 @@
+[package]
+name = "ternary-platoon"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Group formation and coordinated movement for ternary agents with platoon patterns"
