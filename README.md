@@ -75,3 +75,12 @@ Part of the SuperInstance ternary fleet. Works with `ternary-agent` (individual 
 ## License
 
 MIT
+
+## See Also
+- **ternary-constellation** — related
+- **ternary-captain** — related
+- **ternary-consensus** — related
+- **ternary-sync** — related
+- **ternary-mesh** — related
+- **ternary-room** — related
+
